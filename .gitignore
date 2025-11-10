@@ -11,7 +11,10 @@ data/tmp/
 results/figures/*.pdf
 models/*.joblib
 
-# OS
+# Sensitive or local files
+github*.rtf
+*.token
+*.secret
 .DS_Store
 
 # Colab metadata

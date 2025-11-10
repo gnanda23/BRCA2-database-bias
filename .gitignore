@@ -1,5 +1,5 @@
 
-# Python
+# Python cache & temp files
 __pycache__/
 *.pyc
 .venv/
@@ -11,7 +11,7 @@ data/tmp/
 results/figures/*.pdf
 models/*.joblib
 
-# Sensitive or local files
+# Secrets & system files
 github*.rtf
 *.token
 *.secret

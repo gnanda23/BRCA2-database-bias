@@ -1,0 +1,6 @@
+bucket,count
+1–5x,15610
+<0.2x (lower in SAS),3802
+>=10x (higher in SAS),876
+0.2–1x,246
+5–10x,80

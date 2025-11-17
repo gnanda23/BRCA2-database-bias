@@ -1,0 +1,28 @@
+ClinicalSignificance,ReviewStatus,count,mean_sas_af
+"('Benign',)","('criteria_provided', '_multiple_submitters', '_no_conflicts')",5,0.2000023406127039
+"('Benign',)","('criteria_provided', '_single_submitter')",71,0.004580150577850277
+"('Benign',)","('no_assertion_criteria_provided',)",6,1.9322327335682926e-06
+"('Benign',)","('reviewed_by_expert_panel',)",696,0.09198697493556932
+"('Benign/Likely_benign',)","('criteria_provided', '_multiple_submitters', '_no_conflicts')",108,0.0005014612463031182
+"('Benign/Likely_benign',)","('no_assertion_criteria_provided',)",1,0.0
+"('Conflicting_classifications_of_pathogenicity',)","('criteria_provided', '_conflicting_classifications')",5628,1.9616474714757876e-05
+"('Conflicting_classifications_of_pathogenicity',)","('no_assertion_criteria_provided',)",1,0.0
+"('Likely_benign',)","('criteria_provided', '_multiple_submitters', '_no_conflicts')",1349,3.451024390939851e-06
+"('Likely_benign',)","('criteria_provided', '_single_submitter')",2562,8.677886691872774e-05
+"('Likely_benign',)","('no_assertion_criteria_provided',)",38,3.97188136916706e-05
+"('Likely_benign',)","('reviewed_by_expert_panel',)",742,1.499471677346227e-05
+"('Likely_pathogenic',)","('criteria_provided', '_multiple_submitters', '_no_conflicts')",30,3.8672452065495663e-07
+"('Likely_pathogenic',)","('criteria_provided', '_single_submitter')",256,1.8117203296552985e-07
+"('Likely_pathogenic',)","('no_assertion_criteria_provided',)",29,0.0
+"('Likely_pathogenic',)","('reviewed_by_expert_panel',)",11,0.0
+"('Pathogenic',)","('criteria_provided', '_multiple_submitters', '_no_conflicts')",516,7.103562024921243e-08
+"('Pathogenic',)","('criteria_provided', '_single_submitter')",1438,2.099809901263566e-07
+"('Pathogenic',)","('no_assertion_criteria_provided',)",113,2.1743918823862733e-07
+"('Pathogenic',)","('reviewed_by_expert_panel',)",2674,5.348473025030996e-07
+"('Pathogenic/Likely_pathogenic',)","('criteria_provided', '_multiple_submitters', '_no_conflicts')",346,2.0320162975093894e-06
+"('Pathogenic/Likely_pathogenic',)","('criteria_provided', '_single_submitter')",1,0.0
+"('Uncertain_significance',)","('criteria_provided', '_multiple_submitters', '_no_conflicts')",1362,3.31121862342948e-06
+"('Uncertain_significance',)","('criteria_provided', '_single_submitter')",2494,4.2276152708526756e-06
+"('Uncertain_significance',)","('no_assertion_criteria_provided',)",95,6.386872264380297e-07
+"('Uncertain_significance',)","('reviewed_by_expert_panel',)",7,9.976071484267457e-06
+"('not_provided',)","('no_classification_provided',)",22,1.072041166380789e-06

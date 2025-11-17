@@ -1,0 +1,2 @@
+variant_key,HGVS_coding,HGVS_protein,ClinicalSignificance,sas_af,eur_af,sas_eur_ratio,ProposedReclassification,ReviewStatus,DateLastUpdated
+13-32333398-CT-C,,,"('Conflicting_classifications_of_pathogenicity',)",0.0623666113350723,0.0434697274211782,1.4347136509691487,Benign (BA1),"('criteria_provided', '_conflicting_classifications')",

@@ -1,0 +1,10 @@
+ClinicalSignificance,count
+"('Conflicting_classifications_of_pathogenicity',)",5629
+"('Pathogenic',)",4741
+"('Likely_benign',)",4691
+"('Uncertain_significance',)",3958
+"('Benign',)",778
+"('Pathogenic/Likely_pathogenic',)",347
+"('Likely_pathogenic',)",326
+"('Benign/Likely_benign',)",109
+"('not_provided',)",22
